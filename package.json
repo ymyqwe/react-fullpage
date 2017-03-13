@@ -1,0 +1,40 @@
+{
+  "name": "react-fullpage",
+  "version": "1.0.0",
+  "description": "react fullpage demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyqwe/react-fullpage.git"
+  },
+  "author": "ManiaU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymyqwe/react-fullpage/issues"
+  },
+  "homepage": "https://github.com/ymyqwe/react-fullpage#readme",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-generator": "^6.23.0",
+    "babel-helpers": "^6.23.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "css-loader": "^0.27.3",
+    "express": "^4.14.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.5.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-middleware": "^1.10.1",
+    "webpack-hot-middleware": "^2.16.1"
+  }
+}
